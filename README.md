@@ -13,7 +13,7 @@
 ### Current personal projects
 
 #### [åt.se](https://xn--t-1fa.se/) — AI generated news summary
-**Exciting news** - åt.se has won the Schibsted’s Power of Journalism Scholarship! [Read more](https://schibsted.com/news/they-are-the-winners-of-schibsteds-power-of-journalism-scholarship/)
+**Exciting news** - åt.se has won Schibsted’s Power of Journalism Scholarship! [Read more](https://schibsted.com/news/they-are-the-winners-of-schibsteds-power-of-journalism-scholarship/)
 
 To play around with, and learn more about LLMs, I created åt.se, a web
 page where all the content is scraped and summarized by LLMs. The goal
