@@ -10,7 +10,7 @@
 
 - 👀 From August 2024, I’m open to opportunities in dynamic environments, where I can grow as a software developer and make a meaningful impact.
 
-- 📫 Let's talk! Reach me at [pierrelf.com](https://pierrelf.com/)
+- 📫 Let's talk! Reach me at [hello@pierrelf.com](mailto:hello@pierrelf.com)
 
 ### Some personal projects
 
