@@ -2,9 +2,7 @@
 
 - 🌱 I’m a final-year MSc Software Engineering student at KTH, specializing in Distributed Systems.
 
-- ⚡ I'm passionate about web app development and user-friendly interfaces, proficient in JavaScript, Java, Python, among many other things.
-
-- 🧑‍🎓 Currently learning Rust
+- ⚡ I'm passionate about web app development and user-friendly interfaces, proficient in JavaScript, Java, Python, among many other things. Currently learning Rust.
 
 - 🔭 I have been central in building the roughly 1M SEK private cloud enabling innovation at KTH with free cloud computing for students and researchers. I’ve also had the great privilege to talk at conferences and contribute to the open source projects used. [kthcloud](https://github.com/kthcloud)
 
