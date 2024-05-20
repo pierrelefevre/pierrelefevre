@@ -8,8 +8,6 @@
 
 - 📺 I’m currently doing my Master’s thesis in the area of live video broadcasting over the internet, researching the integration of dedicated hardware accelerators in Kubernetes-based cloud-native broadcasting pipelines.
 
-- 👀 From August 2024, I’m open to opportunities in dynamic environments, where I can grow as a software developer and make a meaningful impact.
-
 - 📫 Let's talk! Reach me at [hello@pierrelf.com](mailto:hello@pierrelf.com)
 
 ### Some personal projects
