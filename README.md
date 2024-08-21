@@ -1,4 +1,4 @@
-## Hi there, I'm Pierre 👋
+### Hi there, I'm Pierre 👋
 ### Here are some of my personal projects
 
 #### [hempriser.se](https://hempriser.se) - Property price predictor for Sweden
