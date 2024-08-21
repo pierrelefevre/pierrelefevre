@@ -1,16 +1,5 @@
-### Hi there, I'm Pierre 👋
-
-- 🌱 I’m a final-year MSc Software Engineering student at KTH, specializing in Distributed Systems.
-
-- ⚡ I'm passionate about web app development and user-friendly interfaces, proficient in JavaScript, Java, Python, among many other things. Currently learning Rust.
-
-- 🔭 I have been central in building the roughly 1M SEK private cloud enabling innovation at KTH with free cloud computing for students and researchers. I’ve also had the great privilege to talk at conferences and contribute to the open source projects used. [kthcloud](https://github.com/kthcloud)
-
-- 📺 I’m currently doing my Master’s thesis in the area of live video broadcasting over the internet, researching the integration of dedicated hardware accelerators in Kubernetes-based cloud-native broadcasting pipelines.
-
-- 📫 Let's talk! Reach me at [hello@pierrelf.com](mailto:hello@pierrelf.com)
-
-### Some personal projects
+## Hi there, I'm Pierre 👋
+### Here are some of my personal projects
 
 #### [hempriser.se](https://hempriser.se) - Property price predictor for Sweden
 Hempriser is born from the absence of a public API from Hemnet, and involves intricate web scraping, data cleaning, and machine learning model training to predict property prices. [See the code](https://github.com/pierrelefevre/hempriser)
